@@ -1,2 +1,2 @@
-# underwaterr.github.io
-Personal site, for now
+# `tyler.lane.codes`
+Minimalist personal website.
